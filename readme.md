@@ -1,8 +1,11 @@
 # Awesome Mamba (S4 - Structured State Space Models)
 
-[![Update Papers List](https://github.com/gauravfs-14/awesome-mamba/actions/workflows/bot.yml/badge.svg)](https://github.com/gauravfs-14/awesome-mamba/actions/workflows/bot.yml)
+![Awesome](https://awesome.re/badge.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![GitHub Contributors](https://img.shields.io/github/contributors/gauravfs-14/awesome-mamba.svg)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/gauravfs-14/awesome-mamba.svg)
 [![GitHub Stars](https://img.shields.io/github/stars/gauravfs-14/awesome-mamba.svg?style=social)](https://github.com/gauravfs-14/awesome-mamba)
+![GitHub Forks](https://img.shields.io/github/forks/gauravfs-14/awesome-mamba.svg)
 
 A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Structured State Space Models (SSMs), with a special emphasis on S4, Mamba, and their variants. This repository is designed to be a comprehensive, well-organized knowledge base for researchers and developers delving into the rapidly evolving landscape of sequence modeling using SSMs.
 
@@ -11,7 +14,7 @@ To ensure that the community stays informed of cutting-edge developments, our re
 Whether you're a researcher exploring long-range dependencies, a developer building efficient sequence models, or simply an enthusiast in machine learning, this collection serves as a centralized hub for everything related to S4, Mamba, and the broader family of state space models, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 11, 2025 at 04:18:10 PM UTC
+June 11, 2025 at 04:16:54 PM UTC
 
 
 ## Theorem
