@@ -46,5 +46,4 @@ This repository is licensed under the MIT License. Feel free to use, modify, and
 
 ## Star History
 
-
 [![Star History Chart](https://api.star-history.com/svg?repos=gauravfs-14/awesome-kan)](https://star-history.com/#gauravfs-14/awesome-kan&Date)
