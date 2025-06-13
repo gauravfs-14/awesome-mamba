@@ -99,4 +99,4 @@ This repository is licensed under the [Creative Commons Attribution 4.0 Internat
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gauravfs-14/awesome-kan)](https://star-history.com/#gauravfs-14/awesome-kan&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=gauravfs-14/awesome-mamba)](https://star-history.com/#gauravfs-14/awesome-mamba&Date)
