@@ -13,6 +13,20 @@ To ensure that the community stays informed of cutting-edge developments, our re
 
 Whether you're a researcher exploring long-range dependencies, a developer building efficient sequence models, or simply an enthusiast in machine learning, this collection serves as a centralized hub for everything related to S4, Mamba, and the broader family of state space models, enriched by original peer-reviewed contributions to the field.
 
+> Our paper has been released on arXiv: [From S4 to Mamba: A Comprehensive Survey on Structured State Space Models](https://arxiv.org/abs/2503.18970). Please cite it if you find it useful. Also, check out our paper story on [AIT Lab Website](https://ait-lab.vercel.app/story/survey-s4).
+
+```bibtex
+@misc{somvanshi2025s4mambacomprehensivesurvey,
+      title={From S4 to Mamba: A Comprehensive Survey on Structured State Space Models}, 
+      author={Shriyank Somvanshi and Md Monzurul Islam and Mahmuda Sultana Mimi and Sazzad Bin Bashar Polock and Gaurab Chhetri and Subasish Das},
+      year={2025},
+      eprint={2503.18970},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2503.18970}, 
+}
+```
+
 ## Last Updated
 August 27, 2025 at 01:26:51 AM UTC
 
