@@ -28,12 +28,12 @@ Whether you're a researcher exploring long-range dependencies, a developer build
 ```
 
 ## Last Updated
-September 17, 2025 at 01:23:13 AM UTC
+September 18, 2025 at 01:22:35 AM UTC
 
 
 ## Theorem
 
-## Papers (44)
+## Papers (45)
 - [From S4 to Mamba: A Comprehensive Survey on Structured State Space Models](https://arxiv.org/abs/2503.18970)
 - [W4S4: WaLRUS Meets S4 for Long-Range Sequence Modeling](https://arxiv.org/abs/2506.07920)
 - [Technologies on Effectiveness and Efficiency: A Survey of State Spaces Models](https://arxiv.org/abs/2503.11224)
@@ -78,6 +78,7 @@ September 17, 2025 at 01:23:13 AM UTC
 - [Improving the Diagnosis of Psychiatric Disorders with Self-Supervised Graph State Space Models](https://arxiv.org/abs/2206.03331)
 - [Diagonal State Spaces are as Effective as Structured State Spaces](https://arxiv.org/abs/2203.14343)
 - [Photo-z outlier self-calibration in weak lensing surveys](https://arxiv.org/abs/2007.12795)
+- [Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling](https://arxiv.org/abs/2505.21717)
 
 
 ## Library
