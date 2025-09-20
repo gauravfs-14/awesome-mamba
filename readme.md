@@ -11,12 +11,13 @@ A carefully curated collection of high-quality libraries, projects, tutorials, r
 
 To ensure that the community stays informed of cutting-edge developments, our repository is automatically updated with the latest S4/Mamba-related research papers from arXiv. This feature guarantees that you have access to the most recent advancements in the field, making it an invaluable resource for anyone interested in SSMs.
 
-Whether you're a researcher exploring long-range dependencies, a developer building efficient sequence models, or simply an enthusiast in machine learning, this collection serves as a centralized hub for everything related to S4, Mamba, and the broader family of state space models, enriched by original peer-reviewed contributions to the field.
-
-> Our paper has been released on arXiv: [From S4 to Mamba: A Comprehensive Survey on Structured State Space Models](https://arxiv.org/abs/2503.18970). Please cite it if you find it useful. Also, check out our paper story on [AIT Lab Website](https://ait-lab.vercel.app/story/survey-s4).
+> [!NOTE]
+> 📢 **Announcement:** Our paper is now available on [arXiv](https://arxiv.org/abs/2503.18970)!  
+> **Title:** *From S4 to Mamba: A Comprehensive Survey on Structured State Space Models*  
+> If you find this paper interesting, please consider citing our work. Thank you for your support! Also, check out our paper story on [AIT Lab Website](https://ait-lab.vercel.app/story/survey-s4).
 
 ```bibtex
-@misc{somvanshi2025s4mambacomprehensivesurvey,
+@article{somvanshi2025s4mambacomprehensivesurvey,
       title={From S4 to Mamba: A Comprehensive Survey on Structured State Space Models}, 
       author={Shriyank Somvanshi and Md Monzurul Islam and Mahmuda Sultana Mimi and Sazzad Bin Bashar Polock and Gaurab Chhetri and Subasish Das},
       year={2025},
@@ -26,6 +27,8 @@ Whether you're a researcher exploring long-range dependencies, a developer build
       url={https://arxiv.org/abs/2503.18970}, 
 }
 ```
+
+Whether you're a researcher exploring long-range dependencies, a developer building efficient sequence models, or simply an enthusiast in machine learning, this collection serves as a centralized hub for everything related to S4, Mamba, and the broader family of state space models, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
 September 20, 2025 at 01:21:21 AM UTC
