@@ -31,12 +31,12 @@ To ensure that the community stays informed of cutting-edge developments, our re
 Whether you're a researcher exploring long-range dependencies, a developer building efficient sequence models, or simply an enthusiast in machine learning, this collection serves as a centralized hub for everything related to S4, Mamba, and the broader family of state space models, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-December 16, 2025 at 01:45:42 AM UTC
+December 17, 2025 at 01:41:31 AM UTC
 
 
 ## Theorem
 
-## Papers (47)
+## Papers (48)
 - [From S4 to Mamba: A Comprehensive Survey on Structured State Space Models](https://arxiv.org/abs/2503.18970)
 - [W4S4: WaLRUS Meets S4 for Long-Range Sequence Modeling](https://arxiv.org/abs/2506.07920)
 - [Technologies on Effectiveness and Efficiency: A Survey of State Spaces Models](https://arxiv.org/abs/2503.11224)
@@ -84,6 +84,7 @@ December 16, 2025 at 01:45:42 AM UTC
 - [Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling](https://arxiv.org/abs/2505.21717)
 - [Memory Determines Learning Direction: A Theory of Gradient-Based Optimization in State Space Models](https://arxiv.org/abs/2510.00563)
 - [Parameter Aware Mamba Model for Multi-task Dense Prediction](https://arxiv.org/abs/2511.14503)
+- [Parallelization of Non-linear State-Space Models: Scaling Up Liquid-Resistance Liquid-Capacitance Networks for Efficient Sequence Modeling](https://arxiv.org/abs/2505.21717)
 
 
 ## Library
