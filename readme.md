@@ -31,12 +31,12 @@ To ensure that the community stays informed of cutting-edge developments, our re
 Whether you're a researcher exploring long-range dependencies, a developer building efficient sequence models, or simply an enthusiast in machine learning, this collection serves as a centralized hub for everything related to S4, Mamba, and the broader family of state space models, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 12, 2026 at 02:10:16 AM UTC
+March 13, 2026 at 02:07:46 AM UTC
 
 
 ## Theorem
 
-## Papers (52)
+## Papers (53)
 - [From S4 to Mamba: A Comprehensive Survey on Structured State Space Models](https://arxiv.org/abs/2503.18970)
 - [W4S4: WaLRUS Meets S4 for Long-Range Sequence Modeling](https://arxiv.org/abs/2506.07920)
 - [Technologies on Effectiveness and Efficiency: A Survey of State Spaces Models](https://arxiv.org/abs/2503.11224)
@@ -89,6 +89,7 @@ March 12, 2026 at 02:10:16 AM UTC
 - [On the Relation of State Space Models and Hidden Markov Models](https://arxiv.org/abs/2601.13357)
 - [Multi-Window Temporal Analysis for Enhanced Arrhythmia Classification: Leveraging Long-Range Dependencies in Electrocardiogram Signals](https://arxiv.org/abs/2510.17406)
 - [WaveSSM: Multiscale State-Space Models for Non-stationary Signal Attention](https://arxiv.org/abs/2602.22266)
+- [DysonNet: Constant-Time Local Updates for Neural Quantum States](https://arxiv.org/abs/2603.11189)
 
 
 ## Library
